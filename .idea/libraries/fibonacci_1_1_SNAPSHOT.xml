@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fibonacci-1.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hsenid/fibonacci/fibonacci/1.1-SNAPSHOT/fibonacci-1.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
